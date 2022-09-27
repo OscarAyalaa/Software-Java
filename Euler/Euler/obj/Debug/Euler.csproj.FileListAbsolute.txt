@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\Euler\Euler\bin\Debug\Euler.exe.config
+C:\Users\rodri\source\repos\Euler\Euler\bin\Debug\Euler.exe
+C:\Users\rodri\source\repos\Euler\Euler\bin\Debug\Euler.pdb
+C:\Users\rodri\source\repos\Euler\Euler\obj\Debug\Euler.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Euler\Euler\obj\Debug\Euler.exe
+C:\Users\rodri\source\repos\Euler\Euler\obj\Debug\Euler.pdb
+C:\Users\rodri\source\repos\Euler\Euler\obj\Debug\Euler.csprojResolveAssemblyReference.cache
